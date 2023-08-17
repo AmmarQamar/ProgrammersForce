@@ -1,0 +1,18 @@
+body {
+  padding: 2%;
+  background-color: aliceblue;
+}
+.container {
+  width: 95vw !important;
+  justify-content: space-between;
+}
+#promo {
+  color: rgb(0, 255, 115);
+}
+.cart {
+  background-color: white;
+}
+
+.input-promo {
+  height: auto;
+}
